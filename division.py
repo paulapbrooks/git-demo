@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 def num(n):
     try:
         return int(n)
